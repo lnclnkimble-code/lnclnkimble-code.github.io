@@ -277,7 +277,7 @@
         <div class="game-card"
              data-name="Example Game"
              data-category="arcade"
-             onclick="openGame('https://example.com')">
+             onclick="openGame('https://duckmath.com')">
 
             <div class="game-image">
                 🎯
